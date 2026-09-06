@@ -1,4 +1,3 @@
-# Movie-Booking-System
 # Movie Booking System
 
 A console-based Movie Booking System developed in C++ using Object-Oriented Programming concepts.

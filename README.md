@@ -118,10 +118,3 @@ This project demonstrates:
 - Real payment integration
 - Booking history
 
-## Author
-
-**Your Name**
-
-## License
-
-This project is created for educational purposes.
